@@ -1,7 +1,6 @@
 
 $(document).ready(function() {
 
-    console.log($( "#test_wp_send" ));
 
     $( "#test_wp_send" ).click(function(e){
 
